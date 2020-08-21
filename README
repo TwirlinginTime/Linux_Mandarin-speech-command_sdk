@@ -1,0 +1,21 @@
+
+Twirling Wakeup SDK 
+
+├── README
+├── bin
+│   ├── audio
+│   ├── awaken_offline_sample
+│   └── res
+│       ├── model.bin
+├── doc
+│   └── UserGuide.md
+├── include
+│   └── wakeupApi.h
+├── libs
+│   └── libTwirlingWakeupNN.so
+├── release.txt
+└── samples
+    ├── 64bit_make.sh
+    ├── Makefile
+    ├── awaken_offline_sample.c
+
